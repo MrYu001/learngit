@@ -11,3 +11,6 @@ def log(str):
   return
 
 name = []
+
+for i in range(5):
+  name.append("name" + str(i))
