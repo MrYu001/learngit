@@ -9,3 +9,5 @@ print("python is brilliant")
 def log(str):
   print(str)
   return
+
+name = []
